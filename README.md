@@ -6,7 +6,7 @@
 This application can be installed on local server and online server with these specifications :
 
 #### Server Requirements
-1. PHP >= 8.3.0 (and meet [Laravel 9.x server requirements](https://laravel.com/docs/8.x/deployment#server-requirements)),
+1. PHP >= 8.0.0 (and meet [Laravel 9.x server requirements](https://laravel.com/docs/8.x/deployment#server-requirements)),
 2. MySQL or MariaDB database,
 
 #### Installation Steps
